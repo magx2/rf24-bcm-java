@@ -1,4 +1,4 @@
-JAVA_INCLUDE=/usr/lib/jvm/j2sdk1.7-oracle/include
+JAVA_INCLUDE=/usr/lib/jvm/jdk-8-oracle-arm32-vfp-hflt/include/
 
 clean:
 	rm cpp/RF24_wrap.o
